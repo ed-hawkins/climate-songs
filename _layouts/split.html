@@ -65,9 +65,9 @@
                     <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
                 </li>
                 
-                <!-- Jekyll loops through all pages and filters for files in the 'docs' folder -->
+                <!-- Jekyll loops through all pages and filters for files in the 'songs' folder -->
                 {% for p in site.pages %}
-                    {% if p.path contains 'docs/' %}
+                    {% if p.path contains 'songs/' %}
                         <li>
                             <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
                                 {{ p.title | default: p.name }}
