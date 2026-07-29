@@ -1,6 +1,8 @@
-**Climate Songs** led by [Professor Ed Hawkins](http://www.edhawkins.org)\
-(National Centre for Atmospheric Science, University of Reading)
+---
+layout: split
+title: Home
+---
 
+# Welcome to Climate Songs
 
-
-
+Please select a song & artist from the left-hand menu.

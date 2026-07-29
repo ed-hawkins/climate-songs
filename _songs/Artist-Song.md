@@ -1,5 +1,8 @@
-artist: ArtistName
-song: SongName
+---
+layout: split
+title: ArtistName - SongName
+---
 
-Lyrics
+# ARTISTNAME / SONGNAME
 
+Blah blah
