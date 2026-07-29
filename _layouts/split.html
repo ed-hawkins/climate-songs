@@ -59,14 +59,16 @@
     <div class="container">
         <!-- Left Side: Dynamic Sidebar Links -->
         <div class="sidebar">
-            <h3>Documents</h3>
+            <h3>Climate Songs</h3>
+            {% assign sorted_pages = site.pages | sort: "path" %}
+
             <ul>
                 <li>
                     <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
                 </li>
                 
                 <!-- Jekyll loops through all pages and filters for files in the 'songs' folder -->
-                {% for p in site.pages %}
+                {% for p in sorted_pages %}
                     {% if p.path contains 'songs/' %}
                         <li>
                             <a href="{{ p.url | relative_url }}" {% if page.url == p.url %}class="active"{% endif %}>
