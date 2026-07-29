@@ -4,5 +4,4 @@ description: Crowd-sourced climate themed songs
 show_downloads: false
 collections:
   songs:
-    lyrics: true
     output: true
