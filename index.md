@@ -5,4 +5,4 @@ title: Home
 
 # Welcome to Climate Songs
 
-Please select a song & artist from the left-hand menu.
+Please select a artist & song combination from the left-hand menu.
