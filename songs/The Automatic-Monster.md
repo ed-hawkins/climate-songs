@@ -15,7 +15,7 @@ Original | Climate themed
 --- | ---
 Brain fried tonight through misuse, through misuse, through misuse | Climate change caused through coal use, through gas use, through oil use
 You can't avoid static abuse, abuse, abuse | We didn’t avoid coal use, gas use, oil use
-Without these pills you're let loose,  | Without these fuels, you’re let loose, you're let loose, you're let loose
+Without these pills you're let loose, you're let loose, you're let loose  | Without these fuels, you’re let loose, you're let loose, you're let loose
 Take off, get out, no excuse, no excuse, no excuse | Stop now, get off, no excuse, no excuse, no excuse
 Confused, mind bruised, it seeps out, it seeps out, it seeps out | Suffering, much torment, it’s here now, it’s here now, it’s here now
 Face down, home town looks so grey, looks so grey, looks so grey | Plants die, our Earth looks so grey, looks so grey, looks so grey
